@@ -1,3 +1,3 @@
 #Imagen de la pagina web
 
-![](C:\workSpace\PaginaAnime\CodeAnime\codeAnime.png)
+![](https://github.com/LucasMilessi/CodeAnime/blob/main/codeAnime.png)
