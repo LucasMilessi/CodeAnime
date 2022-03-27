@@ -1,0 +1,16 @@
+export const types ={
+    getListTopAnimes: '[animeStreaming] mostrar todos los mejores animes',
+    getListWithGenre: '[animeStreaming] lista de espectáculos con animes de género',
+    getlistCharactersStaff: '[animeStreaming] mostrar la lista con el personal',
+    getListPictures: '[animeStreaming] mostrar lista portada promocional',
+    getListVideos: '[animeStreaming] mostrar tráiler promocional',
+    getListEpisodes: '[animeStreaming] show list with episodes',
+    getListNews: '[animeStreaming] lista de espectáculos con episodios',
+    getMoreInfo: '[animeStreaming] mostrar más información de este anime',
+    getNameAndDate: '[animeStreaming] obtener el nombre del anime y la fecha por tarjeta',
+    getSearchAnime: '[animeStreaming] mostrar lista con anime por nombres',
+    getTitleOfListAnime: '[animeStreaming] mostrar la lista de nombres',
+    getClearAllDetail: '[animeStreaming] borrar todas las casillas que contienen los detalles del anime',
+    getAddAnimeFavorite: '[animeStreaming] agregar anime a la lista de favoritos',
+    getRemoveAnimeFavorite: '[animeStreaming] eliminar anime en la lista de favoritos',
+}
