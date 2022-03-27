@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CodeAnime/static/css/main.2f2b1fde.chunk.css",
+    "main.js": "/CodeAnime/static/js/main.0d48df37.chunk.js",
+    "main.js.map": "/CodeAnime/static/js/main.0d48df37.chunk.js.map",
+    "runtime-main.js": "/CodeAnime/static/js/runtime-main.2e933f85.js",
+    "runtime-main.js.map": "/CodeAnime/static/js/runtime-main.2e933f85.js.map",
+    "static/js/2.ea1dc5d1.chunk.js": "/CodeAnime/static/js/2.ea1dc5d1.chunk.js",
+    "static/js/2.ea1dc5d1.chunk.js.map": "/CodeAnime/static/js/2.ea1dc5d1.chunk.js.map",
+    "index.html": "/CodeAnime/index.html",
+    "static/css/main.2f2b1fde.chunk.css.map": "/CodeAnime/static/css/main.2f2b1fde.chunk.css.map",
+    "static/js/2.ea1dc5d1.chunk.js.LICENSE.txt": "/CodeAnime/static/js/2.ea1dc5d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e933f85.js",
+    "static/js/2.ea1dc5d1.chunk.js",
+    "static/css/main.2f2b1fde.chunk.css",
+    "static/js/main.0d48df37.chunk.js"
+  ]
+}
