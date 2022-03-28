@@ -1,5 +1,6 @@
 {
   "name": "anime-app",
+  "homepage": "https://LucasMilessi.github.io/CodeAnime",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
